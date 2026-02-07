@@ -11,6 +11,7 @@ This project focuses on form UX, real-time validation, and visual feedback while
 - Visual highlight of the active field on the card
 - Success screen with a summary of entered data
 - Fully responsive layout
+[App Screenshot](assets/ui.png)
 
 ## Built With
 
@@ -31,3 +32,4 @@ This project focuses on form UX, real-time validation, and visual feedback while
 
 
 Made for learning and experimentation.
+
